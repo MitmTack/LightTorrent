@@ -38,7 +38,7 @@ If you find a bug or whatever open an issue. I check when i have time and try to
 
 ## License
 
-MIT so do whatever you want with it really. Use it change it share it i dont mind.
+GNU GPL v3. Basically this means anyone can take this code and do whatever with it. Fork it change it share it even sell it if you somehow find a buyer. But there is one rule and it matters. Whatever you build with this has to stay open source too. The code remains available for everyone. No taking it and locking it up behind closed doors. I put this out there so people can learn from it and maybe make it better. Just keep that going and we are good.
 
 ## Who made it
 
